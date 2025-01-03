@@ -14,11 +14,7 @@ I'm [**N Prashanth Reddy**](https://github.com/nprashanth035), a **Data Engineer
 - **Scheduler & Orchestrator**: Airflow  
 - **Other Tools & Technologies**: Video Editing, Admin Console
 
-### 👨‍💻 Projects
-[All of my projects are available here](https://github.com/nprashanth035)
-
-### 📌 Featured Repository
-[**My Data Engineering Project**](https://github.com/nprashanth035/my-repository-name)
+### 👨‍💻 Projects: [All of my projects are available here](https://github.com/nprashanth035)
 
 ### 📫 Find Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/n-prashanth-reddy-b780111b2/)  
