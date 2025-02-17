@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200"/>
 
-I'm [**N Prashanth Reddy**](https://github.com/nprashanth035), a **Data Engineer** with 3.6 years of experience in building data pipelines, writing Spark code, and developing SQL queries for data transformation in **Azure** and **AWS Cloud**. I am passionate about working with Big Data and Cloud technologies to solve complex problems.
+I'm [**N Prashanth Reddy**](https://github.com/nprashanth035), a **Data Engineer** with 3.7 years of experience in building data pipelines, writing Spark code, and developing SQL queries for data transformation in **Azure** and **AWS Cloud**. I am passionate about working with Big Data and Cloud technologies to solve complex problems.
 
 ### 🛠️ Technical Skills
 - **Programming/Scripting Languages**: Python, PySpark, SQL  
